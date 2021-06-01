@@ -13,7 +13,7 @@ pip install flask
 
 # Run
 
-To run the file, simply use:
+To run the file, simply type this line in the command prompt:
 
 ```
 python3 server.py
