@@ -9,3 +9,12 @@ Development of an interactive tool to analyse a stock.
 ```
 pip install flask
 ```
+
+
+# Run
+
+To run the file, simply use:
+
+```
+python3 server.py
+```
