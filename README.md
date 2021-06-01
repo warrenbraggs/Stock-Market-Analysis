@@ -1,5 +1,5 @@
 # Stock-Market-Analysis
-Development of interactive to tool to analyse a stock 
+Development of an interactive tool to analyse a stock.
 
 
 # Installation
